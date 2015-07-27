@@ -1,0 +1,10 @@
+17:56:55  INFO -- com.testsuite.RockWellSmokeTest.beforeSuite   line no: 41   --**** Test Suite Started *****
+17:57:17  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 61   --Navigating to the given URL:  http://www.rockwellautomation.com/
+17:57:57  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 63   --Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+17:57:57  INFO -- com.page.objects.RockWellHomePage.getPageTitle   line no: 82   --Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+17:57:57  INFO -- com.page.objects.RockWellHomePage.verifyRockWellTitle   line no: 38   --The Actual Title Matches with the Expected Title
+17:59:20  INFO -- com.testsuite.RockWellSmokeTest.beforeSuite   line no: 41   --**** Test Suite Started *****
+17:59:28  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 61   --Navigating to the given URL:  http://www.rockwellautomation.com/
+18:00:06  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 63   --Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+18:00:06  INFO -- com.page.objects.RockWellHomePage.getPageTitle   line no: 82   --Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+18:00:06  INFO -- com.page.objects.RockWellHomePage.verifyRockWellTitle   line no: 38   --The Actual Title Matches with the Expected Title

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Selenium Sample Suite]" parallel="classes">
+  <parameter name="browser" value="firefox"/>
+  <test name="Test(failed)" parallel="classes">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.testsuite.RockWellSmokeTest">
+        <methods>
+          <include name="beforeSuite"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="quitDriver"/>
+          <include name="tc_01_RockWellTest"/>
+        </methods>
+      </class> <!-- com.testsuite.RockWellSmokeTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Selenium Sample Suite] -->

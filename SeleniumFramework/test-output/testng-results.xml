@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium Sample Suite" duration-ms="46225" started-at="2015-07-27T12:29:20Z" finished-at="2015-07-27T12:30:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46225" started-at="2015-07-27T12:29:20Z" finished-at="2015-07-27T12:30:06Z">
+      <class name="com.testsuite.RockWellSmokeTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.testsuite.RockWellSmokeTest@7c808d]" name="beforeSuite" is-config="true" duration-ms="16" started-at="2015-07-27T17:59:20Z" finished-at="2015-07-27T17:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.testsuite.RockWellSmokeTest@7c808d]" name="setUp" is-config="true" duration-ms="8313" started-at="2015-07-27T17:59:20Z" finished-at="2015-07-27T17:59:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testsuite.RockWellSmokeTest@7c808d]" name="setUp" is-config="true" duration-ms="55" started-at="2015-07-27T17:59:28Z" finished-at="2015-07-27T17:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tc_01_RockWellTest()[pri:0, instance:com.testsuite.RockWellSmokeTest@7c808d]" name="tc_01_RockWellTest" duration-ms="37844" started-at="2015-07-27T17:59:28Z" finished-at="2015-07-27T18:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_RockWellTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testsuite.RockWellSmokeTest@7c808d]" name="tearDown" is-config="true" duration-ms="1" started-at="2015-07-27T18:00:06Z" finished-at="2015-07-27T18:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.testsuite.RockWellSmokeTest@7c808d]" name="quitDriver" is-config="true" duration-ms="279" started-at="2015-07-27T18:00:06Z" finished-at="2015-07-27T18:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.testsuite.RockWellSmokeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Selenium Sample Suite -->
+</testng-results>

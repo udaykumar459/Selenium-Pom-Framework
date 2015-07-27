@@ -1,0 +1,374 @@
+2015-07-23 15:42:01,862  INFO  - com.testsuite.RockWellSmokeTest.beforeSuite 41 - **** Test Suite Started *****
+2015-07-23 15:42:10,845  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 61 - Navigating to the given URL:  http://www.rockwellautomation.com/
+2015-07-23 15:42:49,109  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 63 - Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+2015-07-23 15:42:49,126  INFO  - com.page.objects.RockWellHomePage.navigateToRockWellHomePage 23 - Successfukky Navigated to Rock well Home Page 
+2015-07-23 15:42:49,130  INFO  - com.testsuite.RockWellSmokeTest.tearDown 30 - Test has Passed
+2015-07-23 15:45:03,259  INFO  - com.testsuite.RockWellSmokeTest.beforeSuite 41 - **** Test Suite Started *****
+2015-07-23 15:45:10,681  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 61 - Navigating to the given URL:  http://www.rockwellautomation.com/
+2015-07-23 15:45:36,702  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 63 - Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+2015-07-23 15:45:36,720  INFO  - com.page.objects.RockWellHomePage.navigateToRockWellHomePage 23 - Successfukky Navigated to Rock well Home Page 
+2015-07-23 15:45:36,722  INFO  - com.testsuite.RockWellSmokeTest.tearDown 30 - Test has Passed
+2015-07-23 15:46:52,104  INFO  - com.testsuite.RockWellSmokeTest.beforeSuite 41 - **** Test Suite Started *****
+2015-07-23 15:46:58,524  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 61 - Navigating to the given URL:  http://www.rockwellautomation.com/
+2015-07-23 15:47:36,875  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 63 - Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+2015-07-23 15:47:36,891  INFO  - com.page.objects.RockWellHomePage.navigateToRockWellHomePage 23 - Successfukky Navigated to Rock well Home Page 
+2015-07-23 15:47:36,892  INFO  - com.testsuite.RockWellSmokeTest.tearDown 30 - Test has Passed
+2015-07-23 16:20:39,230  INFO  - com.testsuite.RockWellSmokeTest.beforeSuite 41 - **** Test Suite Started *****
+2015-07-23 16:21:02,724  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 61 - Navigating to the given URL:  http://www.rockwellautomation.com/
+2015-07-23 16:21:39,945  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 63 - Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+2015-07-23 16:21:39,962  INFO  - com.testsuite.RockWellSmokeTest.tearDown 30 - Test has Passed
+2015-07-23 16:21:59,011  INFO  - com.testsuite.RockWellSmokeTest.beforeSuite 41 - **** Test Suite Started *****
+2015-07-23 16:22:05,557  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 61 - Navigating to the given URL:  http://www.rockwellautomation.com/
+2015-07-23 16:23:00,574  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 63 - Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+2015-07-23 16:23:00,599  INFO  - com.page.objects.RockWellHomePage.getPageTitle 82 - Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+2015-07-23 16:23:00,619  INFO  - com.testsuite.RockWellSmokeTest.tearDown 31 - Test has Passed
+2015-07-23 16:29:17,101  INFO  - com.testsuite.RockWellSmokeTest.beforeSuite 41 - **** Test Suite Started *****
+2015-07-23 16:29:28,768  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 61 - Navigating to the given URL:  http://www.rockwellautomation.com/
+2015-07-23 16:30:06,125  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 63 - Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+2015-07-23 16:30:06,163  INFO  - com.page.objects.RockWellHomePage.getPageTitle 82 - Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+2015-07-23 16:30:06,165  INFO  - com.page.objects.RockWellHomePage.verifyRockWellTitle 38 - The Actual Title Matches with the Expected Title
+2015-07-23 16:31:05,911  INFO  - com.testsuite.RockWellSmokeTest.beforeSuite 41 - **** Test Suite Started *****
+2015-07-23 16:31:13,249  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 61 - Navigating to the given URL:  http://www.rockwellautomation.com/
+2015-07-23 16:31:50,756  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 63 - Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+2015-07-23 16:31:50,785  INFO  - com.page.objects.RockWellHomePage.getPageTitle 82 - Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+2015-07-23 16:31:50,789  INFO  - com.page.objects.RockWellHomePage.verifyRockWellTitle 38 - The Actual Title Matches with the Expected Title
+2015-07-23 16:33:35,268  INFO  - com.testsuite.RockWellSmokeTest.beforeSuite 'line no: ' 41 - **** Test Suite Started *****
+2015-07-23 16:33:42,336  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 'line no: ' 61 - Navigating to the given URL:  http://www.rockwellautomation.com/
+2015-07-23 16:34:07,593  INFO  - com.page.objects.RockWellHomePage.navigateToUrl 'line no: ' 63 - Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+2015-07-23 16:34:08,249  INFO  - com.page.objects.RockWellHomePage.getPageTitle 'line no: ' 82 - Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+2015-07-23 16:34:08,252  INFO  - com.page.objects.RockWellHomePage.verifyRockWellTitle 'line no: ' 38 - The Actual Title Matches with the Expected Title
+2015-07-23 16:37:19,563  INFO  - com.testsuite.RockWellSmokeTest.beforeSuite line no:41 - **** Test Suite Started *****
+2015-07-23 16:37:55,820  INFO  - com.page.objects.RockWellHomePage.navigateToUrl line no:61 - Navigating to the given URL:  http://www.rockwellautomation.com/
+2015-07-23 16:38:34,201  INFO  - com.page.objects.RockWellHomePage.navigateToUrl line no:63 - Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+2015-07-23 16:38:34,233  INFO  - com.page.objects.RockWellHomePage.getPageTitle line no:82 - Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+2015-07-23 16:38:34,235  INFO  - com.page.objects.RockWellHomePage.verifyRockWellTitle line no:38 - The Actual Title Matches with the Expected Title
+**** Test Suite Started *****
+CookieSpec selected: best-match
+Auth cache not set in the context
+Connection request: [route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Connection leased: [id: 0][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+Opening connection {}->http://127.0.0.1:7055
+Connecting to /127.0.0.1:7055
+Connection established 127.0.0.1:63031<->127.0.0.1:7055
+Executing request POST /hub/session HTTP/1.1
+Target auth state: UNCHALLENGED
+Proxy auth state: UNCHALLENGED
+http-outgoing-0 >> POST /hub/session HTTP/1.1
+http-outgoing-0 >> Content-Type: application/json; charset=utf-8
+http-outgoing-0 >> Content-Length: 105
+http-outgoing-0 >> Host: 127.0.0.1:7055
+http-outgoing-0 >> Connection: Keep-Alive
+http-outgoing-0 >> User-Agent: Apache-HttpClient/4.3.4 (java 1.5)
+http-outgoing-0 >> Accept-Encoding: gzip,deflate
+http-outgoing-0 >> "POST /hub/session HTTP/1.1[\r][\n]"
+http-outgoing-0 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+http-outgoing-0 >> "Content-Length: 105[\r][\n]"
+http-outgoing-0 >> "Host: 127.0.0.1:7055[\r][\n]"
+http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.3.4 (java 1.5)[\r][\n]"
+http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+http-outgoing-0 >> "[\r][\n]"
+http-outgoing-0 >> "{"desiredCapabilities":{"platform":"ANY","browserName":"firefox","version":""},"requiredCapabilities":{}}"
+http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+http-outgoing-0 << "content-type: application/json; charset=UTF-8[\r][\n]"
+http-outgoing-0 << "connection: close[\r][\n]"
+http-outgoing-0 << "content-length: 423[\r][\n]"
+http-outgoing-0 << "server: httpd.js[\r][\n]"
+http-outgoing-0 << "date: Thu, 23 Jul 2015 11:22:05 GMT[\r][\n]"
+http-outgoing-0 << "[\r][\n]"
+http-outgoing-0 << HTTP/1.1 200 OK
+http-outgoing-0 << content-type: application/json; charset=UTF-8
+http-outgoing-0 << connection: close
+http-outgoing-0 << content-length: 423
+http-outgoing-0 << server: httpd.js
+http-outgoing-0 << date: Thu, 23 Jul 2015 11:22:05 GMT
+http-outgoing-0 << "{"name":"newSession","sessionId":"d6fdaca3-91fc-47e4-a06d-5672ea2d98be","status":0,"value":{"cssSelectorsEnabled":true,"browserName":"firefox","handlesAlerts":true,"javascriptEnabled":true,"nativeEvents":false,"platform":"WINDOWS","rotatable":false,"takesScreenshot":true,"version":"35.0.1","webStorageEnabled":true,"applicationCacheEnabled":true,"databaseEnabled":true,"locationContextEnabled":true,"acceptSslCerts":true}}"
+http-outgoing-0: Shutdown connection
+Connection discarded
+http-outgoing-0: Close connection
+Connection released: [id: 0][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+CookieSpec selected: best-match
+Auth cache not set in the context
+Connection request: [route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Connection leased: [id: 1][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+Opening connection {}->http://127.0.0.1:7055
+Connecting to /127.0.0.1:7055
+Connection established 127.0.0.1:63032<->127.0.0.1:7055
+Executing request POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/window/current/maximize HTTP/1.1
+Target auth state: UNCHALLENGED
+Proxy auth state: UNCHALLENGED
+http-outgoing-1 >> POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/window/current/maximize HTTP/1.1
+http-outgoing-1 >> Content-Type: application/json; charset=utf-8
+http-outgoing-1 >> Content-Length: 26
+http-outgoing-1 >> Host: 127.0.0.1:7055
+http-outgoing-1 >> Connection: Keep-Alive
+http-outgoing-1 >> User-Agent: Apache-HttpClient/4.3.4 (java 1.5)
+http-outgoing-1 >> Accept-Encoding: gzip,deflate
+http-outgoing-1 >> "POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/window/current/maximize HTTP/1.1[\r][\n]"
+http-outgoing-1 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+http-outgoing-1 >> "Content-Length: 26[\r][\n]"
+http-outgoing-1 >> "Host: 127.0.0.1:7055[\r][\n]"
+http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.3.4 (java 1.5)[\r][\n]"
+http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+http-outgoing-1 >> "[\r][\n]"
+http-outgoing-1 >> "{"windowHandle":"current"}"
+http-outgoing-1 << "HTTP/1.1 200 OK[\r][\n]"
+http-outgoing-1 << "content-type: application/json; charset=UTF-8[\r][\n]"
+http-outgoing-1 << "connection: close[\r][\n]"
+http-outgoing-1 << "content-length: 98[\r][\n]"
+http-outgoing-1 << "server: httpd.js[\r][\n]"
+http-outgoing-1 << "date: Thu, 23 Jul 2015 11:22:05 GMT[\r][\n]"
+http-outgoing-1 << "[\r][\n]"
+http-outgoing-1 << "{"name":"maximizeWindow","sessionId":"d6fdaca3-91fc-47e4-a06d-5672ea2d98be","status":0,"value":""}"
+http-outgoing-1 << HTTP/1.1 200 OK
+http-outgoing-1 << content-type: application/json; charset=UTF-8
+http-outgoing-1 << connection: close
+http-outgoing-1 << content-length: 98
+http-outgoing-1 << server: httpd.js
+http-outgoing-1 << date: Thu, 23 Jul 2015 11:22:05 GMT
+http-outgoing-1: Shutdown connection
+Connection discarded
+http-outgoing-1: Close connection
+Connection released: [id: 1][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+CookieSpec selected: best-match
+Auth cache not set in the context
+Connection request: [route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Connection leased: [id: 2][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+Opening connection {}->http://127.0.0.1:7055
+Connecting to /127.0.0.1:7055
+Connection established 127.0.0.1:63033<->127.0.0.1:7055
+Executing request POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/timeouts HTTP/1.1
+Target auth state: UNCHALLENGED
+Proxy auth state: UNCHALLENGED
+http-outgoing-2 >> POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/timeouts HTTP/1.1
+http-outgoing-2 >> Content-Type: application/json; charset=utf-8
+http-outgoing-2 >> Content-Length: 30
+http-outgoing-2 >> Host: 127.0.0.1:7055
+http-outgoing-2 >> Connection: Keep-Alive
+http-outgoing-2 >> User-Agent: Apache-HttpClient/4.3.4 (java 1.5)
+http-outgoing-2 >> Accept-Encoding: gzip,deflate
+http-outgoing-2 >> "POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/timeouts HTTP/1.1[\r][\n]"
+http-outgoing-2 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+http-outgoing-2 >> "Content-Length: 30[\r][\n]"
+http-outgoing-2 >> "Host: 127.0.0.1:7055[\r][\n]"
+http-outgoing-2 >> "Connection: Keep-Alive[\r][\n]"
+http-outgoing-2 >> "User-Agent: Apache-HttpClient/4.3.4 (java 1.5)[\r][\n]"
+http-outgoing-2 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+http-outgoing-2 >> "[\r][\n]"
+http-outgoing-2 >> "{"ms":60000,"type":"implicit"}"
+http-outgoing-2 << "HTTP/1.1 200 OK[\r][\n]"
+http-outgoing-2 << "content-type: application/json; charset=UTF-8[\r][\n]"
+http-outgoing-2 << "connection: close[\r][\n]"
+http-outgoing-2 << "content-length: 94[\r][\n]"
+http-outgoing-2 << "server: httpd.js[\r][\n]"
+http-outgoing-2 << "date: Thu, 23 Jul 2015 11:22:05 GMT[\r][\n]"
+http-outgoing-2 << "[\r][\n]"
+http-outgoing-2 << HTTP/1.1 200 OK
+http-outgoing-2 << content-type: application/json; charset=UTF-8
+http-outgoing-2 << connection: close
+http-outgoing-2 << content-length: 94
+http-outgoing-2 << server: httpd.js
+http-outgoing-2 << date: Thu, 23 Jul 2015 11:22:05 GMT
+http-outgoing-2 << "{"name":"setTimeout","sessionId":"d6fdaca3-91fc-47e4-a06d-5672ea2d98be","status":0,"value":""}"
+http-outgoing-2: Shutdown connection
+Connection discarded
+http-outgoing-2: Close connection
+Connection released: [id: 2][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Navigating to the given URL:  http://www.rockwellautomation.com/
+CookieSpec selected: best-match
+Auth cache not set in the context
+Connection request: [route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Connection leased: [id: 3][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+Opening connection {}->http://127.0.0.1:7055
+Connecting to /127.0.0.1:7055
+Connection established 127.0.0.1:63034<->127.0.0.1:7055
+Executing request POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/url HTTP/1.1
+Target auth state: UNCHALLENGED
+Proxy auth state: UNCHALLENGED
+http-outgoing-3 >> POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/url HTTP/1.1
+http-outgoing-3 >> Content-Type: application/json; charset=utf-8
+http-outgoing-3 >> Content-Length: 44
+http-outgoing-3 >> Host: 127.0.0.1:7055
+http-outgoing-3 >> Connection: Keep-Alive
+http-outgoing-3 >> User-Agent: Apache-HttpClient/4.3.4 (java 1.5)
+http-outgoing-3 >> Accept-Encoding: gzip,deflate
+http-outgoing-3 >> "POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/url HTTP/1.1[\r][\n]"
+http-outgoing-3 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+http-outgoing-3 >> "Content-Length: 44[\r][\n]"
+http-outgoing-3 >> "Host: 127.0.0.1:7055[\r][\n]"
+http-outgoing-3 >> "Connection: Keep-Alive[\r][\n]"
+http-outgoing-3 >> "User-Agent: Apache-HttpClient/4.3.4 (java 1.5)[\r][\n]"
+http-outgoing-3 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+http-outgoing-3 >> "[\r][\n]"
+http-outgoing-3 >> "{"url":"http://www.rockwellautomation.com/"}"
+http-outgoing-3 << "HTTP/1.1 200 OK[\r][\n]"
+http-outgoing-3 << "content-type: application/json; charset=UTF-8[\r][\n]"
+http-outgoing-3 << "connection: close[\r][\n]"
+http-outgoing-3 << "content-length: 87[\r][\n]"
+http-outgoing-3 << "server: httpd.js[\r][\n]"
+http-outgoing-3 << "date: Thu, 23 Jul 2015 11:22:43 GMT[\r][\n]"
+http-outgoing-3 << "[\r][\n]"
+http-outgoing-3 << HTTP/1.1 200 OK
+http-outgoing-3 << content-type: application/json; charset=UTF-8
+http-outgoing-3 << connection: close
+http-outgoing-3 << content-length: 87
+http-outgoing-3 << server: httpd.js
+http-outgoing-3 << date: Thu, 23 Jul 2015 11:22:43 GMT
+http-outgoing-3 << "{"name":"get","sessionId":"d6fdaca3-91fc-47e4-a06d-5672ea2d98be","status":0,"value":""}"
+http-outgoing-3: Shutdown connection
+Connection discarded
+http-outgoing-3: Close connection
+Connection released: [id: 3][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+CookieSpec selected: best-match
+Auth cache not set in the context
+Connection request: [route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Connection leased: [id: 4][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+Opening connection {}->http://127.0.0.1:7055
+Connecting to /127.0.0.1:7055
+Connection established 127.0.0.1:63107<->127.0.0.1:7055
+Executing request POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/execute HTTP/1.1
+Target auth state: UNCHALLENGED
+Proxy auth state: UNCHALLENGED
+http-outgoing-4 >> POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/execute HTTP/1.1
+http-outgoing-4 >> Content-Type: application/json; charset=utf-8
+http-outgoing-4 >> Content-Length: 49
+http-outgoing-4 >> Host: 127.0.0.1:7055
+http-outgoing-4 >> Connection: Keep-Alive
+http-outgoing-4 >> User-Agent: Apache-HttpClient/4.3.4 (java 1.5)
+http-outgoing-4 >> Accept-Encoding: gzip,deflate
+http-outgoing-4 >> "POST /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/execute HTTP/1.1[\r][\n]"
+http-outgoing-4 >> "Content-Type: application/json; charset=utf-8[\r][\n]"
+http-outgoing-4 >> "Content-Length: 49[\r][\n]"
+http-outgoing-4 >> "Host: 127.0.0.1:7055[\r][\n]"
+http-outgoing-4 >> "Connection: Keep-Alive[\r][\n]"
+http-outgoing-4 >> "User-Agent: Apache-HttpClient/4.3.4 (java 1.5)[\r][\n]"
+http-outgoing-4 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+http-outgoing-4 >> "[\r][\n]"
+http-outgoing-4 >> "{"args":[],"script":"return document.readyState"}"
+http-outgoing-4 << "HTTP/1.1 200 OK[\r][\n]"
+http-outgoing-4 << "content-type: application/json; charset=UTF-8[\r][\n]"
+http-outgoing-4 << "connection: close[\r][\n]"
+http-outgoing-4 << "content-length: 105[\r][\n]"
+http-outgoing-4 << "server: httpd.js[\r][\n]"
+http-outgoing-4 << "date: Thu, 23 Jul 2015 11:22:43 GMT[\r][\n]"
+http-outgoing-4 << "[\r][\n]"
+http-outgoing-4 << "{"name":"executeScript","sessionId":"d6fdaca3-91fc-47e4-a06d-5672ea2d98be","status":0,"value":"complete"}"
+http-outgoing-4 << HTTP/1.1 200 OK
+http-outgoing-4 << content-type: application/json; charset=UTF-8
+http-outgoing-4 << connection: close
+http-outgoing-4 << content-length: 105
+http-outgoing-4 << server: httpd.js
+http-outgoing-4 << date: Thu, 23 Jul 2015 11:22:43 GMT
+http-outgoing-4: Shutdown connection
+Connection discarded
+http-outgoing-4: Close connection
+Connection released: [id: 4][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+CookieSpec selected: best-match
+Auth cache not set in the context
+Connection request: [route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Connection leased: [id: 5][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+Opening connection {}->http://127.0.0.1:7055
+Connecting to /127.0.0.1:7055
+Connection established 127.0.0.1:63108<->127.0.0.1:7055
+Executing request GET /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/title HTTP/1.1
+Target auth state: UNCHALLENGED
+Proxy auth state: UNCHALLENGED
+http-outgoing-5 >> GET /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/title HTTP/1.1
+http-outgoing-5 >> Cache-Control: no-cache
+http-outgoing-5 >> Host: 127.0.0.1:7055
+http-outgoing-5 >> Connection: Keep-Alive
+http-outgoing-5 >> User-Agent: Apache-HttpClient/4.3.4 (java 1.5)
+http-outgoing-5 >> Accept-Encoding: gzip,deflate
+http-outgoing-5 >> "GET /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be/title HTTP/1.1[\r][\n]"
+http-outgoing-5 >> "Cache-Control: no-cache[\r][\n]"
+http-outgoing-5 >> "Host: 127.0.0.1:7055[\r][\n]"
+http-outgoing-5 >> "Connection: Keep-Alive[\r][\n]"
+http-outgoing-5 >> "User-Agent: Apache-HttpClient/4.3.4 (java 1.5)[\r][\n]"
+http-outgoing-5 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+http-outgoing-5 >> "[\r][\n]"
+http-outgoing-5 << "HTTP/1.1 200 OK[\r][\n]"
+http-outgoing-5 << "content-type: application/json; charset=UTF-8[\r][\n]"
+http-outgoing-5 << "connection: close[\r][\n]"
+http-outgoing-5 << "content-length: 172[\r][\n]"
+http-outgoing-5 << "server: httpd.js[\r][\n]"
+http-outgoing-5 << "date: Thu, 23 Jul 2015 11:22:43 GMT[\r][\n]"
+http-outgoing-5 << "[\r][\n]"
+http-outgoing-5 << "{"name":"getTitle","sessionId":"d6fdaca3-91fc-47e4-a06d-5672ea2d98be","status":0,"value":"Welcome to Rockwell Automation [0xe2][0x80][0x93] Leader in Industrial Automation & Information"}"
+http-outgoing-5 << HTTP/1.1 200 OK
+http-outgoing-5 << content-type: application/json; charset=UTF-8
+http-outgoing-5 << connection: close
+http-outgoing-5 << content-length: 172
+http-outgoing-5 << server: httpd.js
+http-outgoing-5 << date: Thu, 23 Jul 2015 11:22:43 GMT
+http-outgoing-5: Shutdown connection
+Connection discarded
+http-outgoing-5: Close connection
+Connection released: [id: 5][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+The Actual Title Matches with the Expected Title
+CookieSpec selected: best-match
+Auth cache not set in the context
+Connection request: [route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+Connection leased: [id: 6][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+Opening connection {}->http://127.0.0.1:7055
+Connecting to /127.0.0.1:7055
+Connection established 127.0.0.1:63109<->127.0.0.1:7055
+Executing request DELETE /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be HTTP/1.1
+Target auth state: UNCHALLENGED
+Proxy auth state: UNCHALLENGED
+http-outgoing-6 >> DELETE /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be HTTP/1.1
+http-outgoing-6 >> Host: 127.0.0.1:7055
+http-outgoing-6 >> Connection: Keep-Alive
+http-outgoing-6 >> User-Agent: Apache-HttpClient/4.3.4 (java 1.5)
+http-outgoing-6 >> Accept-Encoding: gzip,deflate
+http-outgoing-6 >> "DELETE /hub/session/d6fdaca3-91fc-47e4-a06d-5672ea2d98be HTTP/1.1[\r][\n]"
+http-outgoing-6 >> "Host: 127.0.0.1:7055[\r][\n]"
+http-outgoing-6 >> "Connection: Keep-Alive[\r][\n]"
+http-outgoing-6 >> "User-Agent: Apache-HttpClient/4.3.4 (java 1.5)[\r][\n]"
+http-outgoing-6 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+http-outgoing-6 >> "[\r][\n]"
+http-outgoing-6 << "HTTP/1.1 200 OK[\r][\n]"
+http-outgoing-6 << "content-type: application/json; charset=UTF-8[\r][\n]"
+http-outgoing-6 << "connection: close[\r][\n]"
+http-outgoing-6 << "content-length: 88[\r][\n]"
+http-outgoing-6 << "server: httpd.js[\r][\n]"
+http-outgoing-6 << "date: Thu, 23 Jul 2015 11:22:43 GMT[\r][\n]"
+http-outgoing-6 << "[\r][\n]"
+http-outgoing-6 << "{"name":"quit","sessionId":"d6fdaca3-91fc-47e4-a06d-5672ea2d98be","status":0,"value":""}"
+http-outgoing-6 << HTTP/1.1 200 OK
+http-outgoing-6 << content-type: application/json; charset=UTF-8
+http-outgoing-6 << connection: close
+http-outgoing-6 << content-length: 88
+http-outgoing-6 << server: httpd.js
+http-outgoing-6 << date: Thu, 23 Jul 2015 11:22:43 GMT
+http-outgoing-6: Shutdown connection
+Connection discarded
+http-outgoing-6: Close connection
+Connection released: [id: 6][route: {}->http://127.0.0.1:7055][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+**** Test Suite Started *****
+Navigating to the given URL:  http://www.rockwellautomation.com/
+Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+The Actual Title Matches with the Expected Title
+16:56:13  INFO -- com.testsuite.RockWellSmokeTest.beforeSuite   line no: 41   --**** Test Suite Started *****
+16:56:23  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 61   --Navigating to the given URL:  http://www.rockwellautomation.com/
+16:56:25  INFO -- com.testsuite.RockWellSmokeTest.beforeSuite   line no: 41   --**** Test Suite Started *****
+16:56:35  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 61   --Navigating to the given URL:  http://www.rockwellautomation.com/
+16:57:01  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 63   --Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+16:57:01  INFO -- com.page.objects.RockWellHomePage.getPageTitle   line no: 82   --Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+16:57:01  INFO -- com.page.objects.RockWellHomePage.verifyRockWellTitle   line no: 38   --The Actual Title Matches with the Expected Title
+16:57:13  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 63   --Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+16:57:13  INFO -- com.page.objects.RockWellHomePage.getPageTitle   line no: 82   --Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+16:57:13  INFO -- com.page.objects.RockWellHomePage.verifyRockWellTitle   line no: 38   --The Actual Title Matches with the Expected Title
+17:27:30  INFO -- com.testsuite.RockWellSmokeTest.beforeSuite   line no: 41   --**** Test Suite Started *****
+17:27:52  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 61   --Navigating to the given URL:  http://www.rockwellautomation.com/
+17:28:20  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 63   --Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+17:28:20  INFO -- com.page.objects.RockWellHomePage.getPageTitle   line no: 82   --Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+17:28:20  INFO -- com.page.objects.RockWellHomePage.verifyRockWellTitle   line no: 38   --The Actual Title Matches with the Expected Title
+17:31:57  INFO -- com.testsuite.RockWellSmokeTest.beforeSuite   line no: 41   --**** Test Suite Started *****
+17:32:16  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 61   --Navigating to the given URL:  http://www.rockwellautomation.com/
+17:32:53  INFO -- com.page.objects.RockWellHomePage.navigateToUrl   line no: 63   --Successfully Navigated to the given URL : http://www.rockwellautomation.com/
+17:32:54  INFO -- com.page.objects.RockWellHomePage.getPageTitle   line no: 82   --Current Web Page title is : Welcome to Rockwell Automation – Leader in Industrial Automation & Information
+17:32:54  INFO -- com.page.objects.RockWellHomePage.verifyRockWellTitle   line no: 38   --The Actual Title Matches with the Expected Title
